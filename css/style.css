@@ -170,7 +170,8 @@ article h2, article p{
 .cards__content__text{
     color: var(--text);
     text-align: left;
-    margin: 0.1rem;
+    margin: 0.5rem;
+    font-size: 1.5rem;
 }
 
 /* TOP RIGHT */
@@ -323,7 +324,21 @@ button{
 
 #grid__br__content div{
     display: flex;
-    margin: 0.5rem auto;
+    margin: 0.5rem;
+    gap: 1.2rem;
+    width: 17rem;
+}
+
+#grid__br__content h5{
+    display: flex;
+    margin: 0.25rem;
+    gap: 1.2rem;
+    width: 17rem;
+}
+
+#grid__br__content h2{
+    display: flex;
+    margin: 0.25rem;
     gap: 1.2rem;
     width: 17rem;
 }
