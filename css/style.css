@@ -348,6 +348,7 @@ button{
 }
 
 .btn-contact{
+    display: block;
     border: var(--border);
     border-radius: 2rem;
 }
