@@ -329,14 +329,8 @@ button{
     width: 17rem;
 }
 
+#grid__br__content h2,
 #grid__br__content h5{
-    display: flex;
-    margin: 0.25rem;
-    gap: 1.2rem;
-    width: 17rem;
-}
-
-#grid__br__content h2{
     display: flex;
     margin: 0.25rem;
     gap: 1.2rem;
