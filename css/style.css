@@ -132,6 +132,9 @@ p {
     left: 0;
     transform: translateX(-100vw) translateY(-100vh);
 }
+#grid__tl__content p{
+    text-align: center;
+}
 
 article{
     background: rgb(245, 245, 245);
@@ -346,4 +349,5 @@ button{
     display: block;
     border: var(--border);
     border-radius: 2rem;
+    margin: auto;
 }
