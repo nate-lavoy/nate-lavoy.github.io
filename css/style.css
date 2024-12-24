@@ -332,6 +332,7 @@ button{
 #grid__br__content h2,
 #grid__br__content h5{
     display: flex;
+    justify-content: center;
     margin: 0.25rem;
     gap: 1.2rem;
     width: 17rem;
